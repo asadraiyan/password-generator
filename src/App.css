@@ -22,7 +22,7 @@ body {
   background-color: rgb(86, 84, 84);
   margin-top: 3rem;
   padding: 1rem;
-  border-radius: 5px;
+  border-radius: 7px;
   box-shadow: 2px 2px 2px 2px rgb(171, 169, 169);
 }
 .pass-box h1 {
@@ -40,11 +40,12 @@ body {
   width: 100%;
   height: 40px;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 7px;
   outline: none;
   border: none;
   font-size: 17px;
   font-weight: 700;
+  color: orangered;
 }
 .input-box button {
   position: absolute;
@@ -52,11 +53,11 @@ body {
   height: 40px;
   width: 75px;
   /* padding: 10px; */
-  border-top-right-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
   outline: none;
   border: none;
-  background-color: darkslateblue;
+  background-color: #0d6efd;
   color: white;
   font-size: 17px;
   cursor: pointer;
@@ -69,7 +70,7 @@ body {
   background-color: white;
   padding: 10px;
   margin-top: 2rem;
-  border-radius: 5px;
+  border-radius: 7px;
 }
 .custom-options {
   display: flex;
